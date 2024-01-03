@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hi there 👋 I'm Pirkhs 😊
+
+👨‍🎓 Student at NorthCoders 
+💻 Studying Software Development 
+📚 JavaScript Learner 
+📫 Email: nathan.briers32@gmail.com 
+👶 New to GitHub 
+
 
 <!--
 **Pirkhs/Pirkhs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
