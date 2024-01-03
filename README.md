@@ -1,10 +1,12 @@
 ### Hi there 👋 I'm Pirkhs 😊
 
-👨‍🎓 Student at NorthCoders 
-💻 Studying Software Development 
-📚 JavaScript Learner 
-📫 Email: nathan.briers32@gmail.com 
-👶 New to GitHub 
+👨‍🎓 Student at NorthCoders <br>
+💻 Studying Software Development <br>
+📚 JavaScript Learner <br>
+📫 Email: nathan.briers32@gmail.com <br>
+👶 New to GitHub <br>
+<br>
+Feel free to contact me for any further information ℹ️
 
 
 <!--
