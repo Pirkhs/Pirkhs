@@ -6,7 +6,7 @@
 📫 Email: nathan.briers32@gmail.com <br>
 👶 New to GitHub <br>
 <br>
-Feel free to contact me for any further information.
+Feel free to contact me for any further information or any queries you may have 
 
 
 <!--
