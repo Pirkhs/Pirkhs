@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Pirkhs 😊
+### Hi there 👋 I'm Nathan 😊
 
 👨‍🎓 Student at NorthCoders <br>
 💻 Studying Software Development <br>
