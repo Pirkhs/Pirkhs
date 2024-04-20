@@ -1,9 +1,9 @@
-### Hi there 👋 I'm Nathan 😊
+### Hi there 👋 I'm Nathan (he/him) 😊
 
-👨‍🎓 Student at NorthCoders <br>
+👨‍🎓 Graduate from NorthCoders <br>
 💻 Studying Software Development <br>
-📚 JavaScript Learner <br>
 📫 Email: nathan.briers32@gmail.com <br>
+🔗 LinkedIn: https://www.linkedin.com/in/nathan-briers-47b61125b/ <br>
 👶 New to GitHub <br>
 <br>
 Feel free to contact me for any further information or any queries you may have 
